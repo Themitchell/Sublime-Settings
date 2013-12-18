@@ -1,0 +1,20 @@
+{
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"CSSFormat",
+		"Cucumber",
+		"EJS",
+		"Emmet",
+		"Floobits",
+		"Git",
+		"Git Config",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Package Control",
+		"SCSS",
+		"SideBarGit",
+		"SublimeERB",
+		"Whitespace Diff Trim"
+	]
+}
