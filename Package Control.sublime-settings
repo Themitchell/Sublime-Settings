@@ -3,6 +3,7 @@
 	[
 		"CoffeeScript",
 		"GitGutter",
+		"Handlebars",
 		"HTML-CSS-JS Prettify",
 		"Package Control",
 		"SCSS",
