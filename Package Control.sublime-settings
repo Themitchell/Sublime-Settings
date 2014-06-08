@@ -2,10 +2,6 @@
 	"installed_packages":
 	[
 		"CoffeeScript",
-		"CSSFormat",
-		"Cucumber",
-		"Emmet",
-		"Floobits",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
 		"Package Control",
