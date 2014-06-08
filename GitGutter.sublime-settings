@@ -1,6 +1,6 @@
 {
   // Custom path to git binary when not in PATH
-  "git_binary": "",
+  "git_binary": "/usr/local/bin/git",
 
   // Live mode evaluates changes every time file is modified,
   // Set false to disable evaluation after each input
