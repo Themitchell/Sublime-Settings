@@ -12,5 +12,10 @@
 		"SublimeERB",
 		"SublimeGit",
 		"Whitespace Diff Trim"
+	],
+	"repositories":
+	[
+		"https://github.com/SublimeText/BufferScroll",
+		"https://github.com/SublimeText/BufferScroll"
 	]
 }
