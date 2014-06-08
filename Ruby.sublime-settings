@@ -1,10 +1,12 @@
 {
-  "extensions":
-  [
-    "ru",
-    "podspec",
-    "Cheffile",
-    ".irbrc",
-    "Podfile"
-  ]
+    "extensions":
+    [
+        "ru",
+        "podspec",
+        "Cheffile",
+        ".irbrc",
+        "Podfile"
+    ],
+    "tab_size": 2,
+    "translate_tabs_to_spaces": true
 }
