@@ -1,16 +1,20 @@
 {
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"CoffeeScript",
+		"Cucumber",
 		"DocBlockr",
 		"GitGutter",
 		"Handlebars",
 		"HTML-CSS-JS Prettify",
 		"JSHint Gutter",
 		"Package Control",
+		"RSpec",
 		"SCSS",
 		"SublimeERB",
 		"SublimeGit",
+		"Sublimerge Pro",
 		"ToggleQuotes",
 		"Whitespace Diff Trim"
 	],
