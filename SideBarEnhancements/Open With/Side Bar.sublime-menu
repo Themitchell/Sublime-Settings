@@ -1,0 +1,35 @@
+[
+	{"id": "side-bar-files-open-with",
+		"children":
+		[
+
+			// Photoshop
+			{
+				"caption": "Photoshop",
+				"id": "side-bar-files-open-with-photoshop",
+				"command": "side_bar_files_open_with",
+				"args": {
+					"paths": [],
+					"application": "Adobe Photoshop CS5.app", // OSX
+					"extensions":"psd|png|jpg|jpeg"  //any file with these extensions
+				}
+			},
+
+			{"caption":"-"},
+
+			// Mou
+			{
+				"caption": "Mou",
+				"id": "side-bar-files-open-with-mou",
+				"command": "side_bar_files_open_with",
+				"args": {
+					"paths": [],
+					"application": "Mou.app",
+					"extensions":".md"
+				}
+			},
+
+			{"caption":"-"}
+		]
+	}
+]
