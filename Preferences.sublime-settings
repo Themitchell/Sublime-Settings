@@ -84,7 +84,8 @@
 		"deprecated",
 		"node_modules",
 		"log",
-		"tmp"
+		"tmp",
+		"coverage"
 	],
 	"font_options":
 	[
