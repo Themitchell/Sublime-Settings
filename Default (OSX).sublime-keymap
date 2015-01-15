@@ -1,3 +1,5 @@
 [
-  { "keys": ["super+m"], "command": "toggle_minimap" }
+  { "keys": ["super+m"], "command": "toggle_minimap" },
+  { "keys": ["super+shift+v"], "command": "paste" },
+  { "keys": ["super+v"], "command": "paste_and_indent" }
 ]
