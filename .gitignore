@@ -7,3 +7,5 @@
 .DS_Store
 
 /SublimeGit.sublime-settings
+Package Control.merged-ca-bundle
+Package Control.user-ca-bundle
