@@ -81,10 +81,11 @@
 		".svn",
 		".git",
 		".hg",
+		"bower_components",
 		"CVS",
 		"deprecated",
-		"node_modules",
 		"log",
+		"node_modules",
 		"tmp",
 		"coverage"
 	],
