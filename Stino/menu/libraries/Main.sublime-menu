@@ -1,0 +1,217 @@
+[
+    {
+        "caption": "Arduino", 
+        "children": [
+            {
+                "caption": "Import Library", 
+                "children": [
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/libraries/Audio"
+                        }, 
+                        "caption": "Audio (sam)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge"
+                        }, 
+                        "caption": "Bridge (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/libraries/Esplora"
+                        }, 
+                        "caption": "Esplora (avr)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/libraries/Ethernet"
+                        }, 
+                        "caption": "Ethernet (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/libraries/Firmata"
+                        }, 
+                        "caption": "Firmata (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/libraries/GSM"
+                        }, 
+                        "caption": "GSM (avr)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/libraries/LiquidCrystal"
+                        }, 
+                        "caption": "LiquidCrystal (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control"
+                        }, 
+                        "caption": "Robot_Control (avr)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Motor"
+                        }, 
+                        "caption": "Robot_Motor (avr)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/libraries/RobotIRremote"
+                        }, 
+                        "caption": "RobotIRremote (avr)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/libraries/Scheduler"
+                        }, 
+                        "caption": "Scheduler (sam)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/libraries/SD"
+                        }, 
+                        "caption": "SD (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/libraries/Servo"
+                        }, 
+                        "caption": "Servo (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/libraries/SpacebrewYun"
+                        }, 
+                        "caption": "SpacebrewYun (avr)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/libraries/Stepper"
+                        }, 
+                        "caption": "Stepper (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/libraries/Temboo"
+                        }, 
+                        "caption": "Temboo (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/libraries/TFT"
+                        }, 
+                        "caption": "TFT (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/libraries/USBHost"
+                        }, 
+                        "caption": "USBHost (sam)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/libraries/WiFi"
+                        }, 
+                        "caption": "WiFi (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "caption": "-"
+                    }, 
+                    {
+                        "caption": "Arduino AVR Boards", 
+                        "command": "none_command"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/avr/libraries/EEPROM"
+                        }, 
+                        "caption": "EEPROM", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/avr/libraries/SoftwareSerial"
+                        }, 
+                        "caption": "SoftwareSerial", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/avr/libraries/SPI"
+                        }, 
+                        "caption": "SPI", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/avr/libraries/Wire"
+                        }, 
+                        "caption": "Wire", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "caption": "-"
+                    }, 
+                    {
+                        "caption": "Arduino ARM (32-bits) Boards", 
+                        "command": "none_command"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/sam/libraries/SPI"
+                        }, 
+                        "caption": "SPI", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/sam/libraries/Wire"
+                        }, 
+                        "caption": "Wire", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "caption": "-"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Users/andy/Documents/Arduino/libraries/Led"
+                        }, 
+                        "caption": "Led (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "caption": "-"
+                    }
+                ], 
+                "id": "import_library"
+            }
+        ], 
+        "id": "arduino", 
+        "mnemonic": "A"
+    }
+]

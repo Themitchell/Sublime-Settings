@@ -1,0 +1,197 @@
+[
+    {
+        "caption": "Arduino", 
+        "children": [
+            {
+                "caption": "Board", 
+                "children": [
+                    {
+                        "caption": "Arduino AVR Boards", 
+                        "command": "none_command"
+                    }, 
+                    {
+                        "args": {
+                            "board_id": "ide.arduino.avr.yun"
+                        }, 
+                        "caption": "Arduino Y\u00fan", 
+                        "checkbox": true, 
+                        "command": "select_board"
+                    }, 
+                    {
+                        "args": {
+                            "board_id": "ide.arduino.avr.uno"
+                        }, 
+                        "caption": "Arduino Uno", 
+                        "checkbox": true, 
+                        "command": "select_board"
+                    }, 
+                    {
+                        "args": {
+                            "board_id": "ide.arduino.avr.diecimila"
+                        }, 
+                        "caption": "Arduino Duemilanove or Diecimila", 
+                        "checkbox": true, 
+                        "command": "select_board"
+                    }, 
+                    {
+                        "args": {
+                            "board_id": "ide.arduino.avr.nano"
+                        }, 
+                        "caption": "Arduino Nano", 
+                        "checkbox": true, 
+                        "command": "select_board"
+                    }, 
+                    {
+                        "args": {
+                            "board_id": "ide.arduino.avr.mega"
+                        }, 
+                        "caption": "Arduino Mega or Mega 2560", 
+                        "checkbox": true, 
+                        "command": "select_board"
+                    }, 
+                    {
+                        "args": {
+                            "board_id": "ide.arduino.avr.megaADK"
+                        }, 
+                        "caption": "Arduino Mega ADK", 
+                        "checkbox": true, 
+                        "command": "select_board"
+                    }, 
+                    {
+                        "args": {
+                            "board_id": "ide.arduino.avr.leonardo"
+                        }, 
+                        "caption": "Arduino Leonardo", 
+                        "checkbox": true, 
+                        "command": "select_board"
+                    }, 
+                    {
+                        "args": {
+                            "board_id": "ide.arduino.avr.micro"
+                        }, 
+                        "caption": "Arduino Micro", 
+                        "checkbox": true, 
+                        "command": "select_board"
+                    }, 
+                    {
+                        "args": {
+                            "board_id": "ide.arduino.avr.esplora"
+                        }, 
+                        "caption": "Arduino Esplora", 
+                        "checkbox": true, 
+                        "command": "select_board"
+                    }, 
+                    {
+                        "args": {
+                            "board_id": "ide.arduino.avr.mini"
+                        }, 
+                        "caption": "Arduino Mini", 
+                        "checkbox": true, 
+                        "command": "select_board"
+                    }, 
+                    {
+                        "args": {
+                            "board_id": "ide.arduino.avr.ethernet"
+                        }, 
+                        "caption": "Arduino Ethernet", 
+                        "checkbox": true, 
+                        "command": "select_board"
+                    }, 
+                    {
+                        "args": {
+                            "board_id": "ide.arduino.avr.fio"
+                        }, 
+                        "caption": "Arduino Fio", 
+                        "checkbox": true, 
+                        "command": "select_board"
+                    }, 
+                    {
+                        "args": {
+                            "board_id": "ide.arduino.avr.bt"
+                        }, 
+                        "caption": "Arduino BT", 
+                        "checkbox": true, 
+                        "command": "select_board"
+                    }, 
+                    {
+                        "args": {
+                            "board_id": "ide.arduino.avr.LilyPadUSB"
+                        }, 
+                        "caption": "LilyPad Arduino USB", 
+                        "checkbox": true, 
+                        "command": "select_board"
+                    }, 
+                    {
+                        "args": {
+                            "board_id": "ide.arduino.avr.lilypad"
+                        }, 
+                        "caption": "LilyPad Arduino", 
+                        "checkbox": true, 
+                        "command": "select_board"
+                    }, 
+                    {
+                        "args": {
+                            "board_id": "ide.arduino.avr.pro"
+                        }, 
+                        "caption": "Arduino Pro or Pro Mini", 
+                        "checkbox": true, 
+                        "command": "select_board"
+                    }, 
+                    {
+                        "args": {
+                            "board_id": "ide.arduino.avr.atmegang"
+                        }, 
+                        "caption": "Arduino NG or older", 
+                        "checkbox": true, 
+                        "command": "select_board"
+                    }, 
+                    {
+                        "args": {
+                            "board_id": "ide.arduino.avr.robotControl"
+                        }, 
+                        "caption": "Arduino Robot Control", 
+                        "checkbox": true, 
+                        "command": "select_board"
+                    }, 
+                    {
+                        "args": {
+                            "board_id": "ide.arduino.avr.robotMotor"
+                        }, 
+                        "caption": "Arduino Robot Motor", 
+                        "checkbox": true, 
+                        "command": "select_board"
+                    }, 
+                    {
+                        "caption": "-"
+                    }, 
+                    {
+                        "caption": "Arduino ARM (32-bits) Boards", 
+                        "command": "none_command"
+                    }, 
+                    {
+                        "args": {
+                            "board_id": "ide.arduino.sam.arduino_due_x_dbg"
+                        }, 
+                        "caption": "Arduino Due (Programming Port)", 
+                        "checkbox": true, 
+                        "command": "select_board"
+                    }, 
+                    {
+                        "args": {
+                            "board_id": "ide.arduino.sam.arduino_due_x"
+                        }, 
+                        "caption": "Arduino Due (Native USB Port)", 
+                        "checkbox": true, 
+                        "command": "select_board"
+                    }, 
+                    {
+                        "caption": "-"
+                    }
+                ], 
+                "id": "boards"
+            }
+        ], 
+        "id": "arduino", 
+        "mnemonic": "A"
+    }
+]
