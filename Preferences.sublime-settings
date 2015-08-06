@@ -87,7 +87,8 @@
 		"log",
 		"node_modules",
 		"tmp",
-		"coverage"
+		"coverage",
+		"dist"
 	],
 	"font_options":
 	[
