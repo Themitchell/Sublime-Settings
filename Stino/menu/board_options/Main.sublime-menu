@@ -6,8 +6,29 @@
                 "caption": "Board Options", 
                 "children": [
                     {
-                        "caption": "None", 
+                        "caption": "Processor", 
                         "command": "none_command"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 0, 
+                            "sub_board_id": "ide.arduino.avr.mega.cpu.atmega2560"
+                        }, 
+                        "caption": "ATmega2560 (Mega 2560)", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 0, 
+                            "sub_board_id": "ide.arduino.avr.mega.cpu.atmega1280"
+                        }, 
+                        "caption": "ATmega1280", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "caption": "-"
                     }
                 ], 
                 "id": "board_options"

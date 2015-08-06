@@ -10,6 +10,13 @@
                         "children": [
                             {
                                 "args": {
+                                    "sketch_path": "/Users/andy/Documents/Arduino/Matrix/_16x_RGB_matrix"
+                                }, 
+                                "caption": "_16x_RGB_matrix", 
+                                "command": "open_sketch"
+                            }, 
+                            {
+                                "args": {
                                     "sketch_path": "/Users/andy/Documents/Arduino/Matrix/_9x_matrix"
                                 }, 
                                 "caption": "_9x_matrix", 

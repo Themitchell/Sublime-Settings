@@ -10,42 +10,42 @@
                         "children": [
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/01.Basics/AnalogReadSerial"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/01.Basics/AnalogReadSerial"
                                 }, 
                                 "caption": "AnalogReadSerial", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/01.Basics/BareMinimum"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/01.Basics/BareMinimum"
                                 }, 
                                 "caption": "BareMinimum", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/01.Basics/Blink"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/01.Basics/Blink"
                                 }, 
                                 "caption": "Blink", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/01.Basics/DigitalReadSerial"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/01.Basics/DigitalReadSerial"
                                 }, 
                                 "caption": "DigitalReadSerial", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/01.Basics/Fade"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/01.Basics/Fade"
                                 }, 
                                 "caption": "Fade", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/01.Basics/ReadAnalogVoltage"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/01.Basics/ReadAnalogVoltage"
                                 }, 
                                 "caption": "ReadAnalogVoltage", 
                                 "command": "open_sketch"
@@ -57,63 +57,63 @@
                         "children": [
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/02.Digital/BlinkWithoutDelay"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/02.Digital/BlinkWithoutDelay"
                                 }, 
                                 "caption": "BlinkWithoutDelay", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/02.Digital/Button"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/02.Digital/Button"
                                 }, 
                                 "caption": "Button", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/02.Digital/Debounce"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/02.Digital/Debounce"
                                 }, 
                                 "caption": "Debounce", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/02.Digital/DigitalInputPullup"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/02.Digital/DigitalInputPullup"
                                 }, 
                                 "caption": "DigitalInputPullup", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/02.Digital/StateChangeDetection"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/02.Digital/StateChangeDetection"
                                 }, 
                                 "caption": "StateChangeDetection", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/02.Digital/toneKeyboard"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/02.Digital/toneKeyboard"
                                 }, 
                                 "caption": "toneKeyboard", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/02.Digital/toneMelody"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/02.Digital/toneMelody"
                                 }, 
                                 "caption": "toneMelody", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/02.Digital/toneMultiple"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/02.Digital/toneMultiple"
                                 }, 
                                 "caption": "toneMultiple", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/02.Digital/tonePitchFollower"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/02.Digital/tonePitchFollower"
                                 }, 
                                 "caption": "tonePitchFollower", 
                                 "command": "open_sketch"
@@ -125,42 +125,42 @@
                         "children": [
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/03.Analog/AnalogInOutSerial"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/03.Analog/AnalogInOutSerial"
                                 }, 
                                 "caption": "AnalogInOutSerial", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/03.Analog/AnalogInput"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/03.Analog/AnalogInput"
                                 }, 
                                 "caption": "AnalogInput", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/03.Analog/AnalogWriteMega"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/03.Analog/AnalogWriteMega"
                                 }, 
                                 "caption": "AnalogWriteMega", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/03.Analog/Calibration"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/03.Analog/Calibration"
                                 }, 
                                 "caption": "Calibration", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/03.Analog/Fading"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/03.Analog/Fading"
                                 }, 
                                 "caption": "Fading", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/03.Analog/Smoothing"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/03.Analog/Smoothing"
                                 }, 
                                 "caption": "Smoothing", 
                                 "command": "open_sketch"
@@ -172,77 +172,77 @@
                         "children": [
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/04.Communication/ASCIITable"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/04.Communication/ASCIITable"
                                 }, 
                                 "caption": "ASCIITable", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/04.Communication/Dimmer"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/04.Communication/Dimmer"
                                 }, 
                                 "caption": "Dimmer", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/04.Communication/Graph"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph"
                                 }, 
                                 "caption": "Graph", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/04.Communication/Midi"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/04.Communication/Midi"
                                 }, 
                                 "caption": "Midi", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/04.Communication/MultiSerialMega"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/04.Communication/MultiSerialMega"
                                 }, 
                                 "caption": "MultiSerialMega", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/04.Communication/PhysicalPixel"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/04.Communication/PhysicalPixel"
                                 }, 
                                 "caption": "PhysicalPixel", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/04.Communication/ReadASCIIString"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/04.Communication/ReadASCIIString"
                                 }, 
                                 "caption": "ReadASCIIString", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/04.Communication/SerialCallResponse"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/04.Communication/SerialCallResponse"
                                 }, 
                                 "caption": "SerialCallResponse", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/04.Communication/SerialCallResponseASCII"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/04.Communication/SerialCallResponseASCII"
                                 }, 
                                 "caption": "SerialCallResponseASCII", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/04.Communication/SerialEvent"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/04.Communication/SerialEvent"
                                 }, 
                                 "caption": "SerialEvent", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/04.Communication/VirtualColorMixer"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/04.Communication/VirtualColorMixer"
                                 }, 
                                 "caption": "VirtualColorMixer", 
                                 "command": "open_sketch"
@@ -254,42 +254,42 @@
                         "children": [
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/05.Control/Arrays"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/05.Control/Arrays"
                                 }, 
                                 "caption": "Arrays", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/05.Control/ForLoopIteration"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/05.Control/ForLoopIteration"
                                 }, 
                                 "caption": "ForLoopIteration", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/05.Control/IfStatementConditional"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/05.Control/IfStatementConditional"
                                 }, 
                                 "caption": "IfStatementConditional", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/05.Control/switchCase"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/05.Control/switchCase"
                                 }, 
                                 "caption": "switchCase", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/05.Control/switchCase2"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/05.Control/switchCase2"
                                 }, 
                                 "caption": "switchCase2", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/05.Control/WhileStatementConditional"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/05.Control/WhileStatementConditional"
                                 }, 
                                 "caption": "WhileStatementConditional", 
                                 "command": "open_sketch"
@@ -301,28 +301,28 @@
                         "children": [
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/06.Sensors/ADXL3xx"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/06.Sensors/ADXL3xx"
                                 }, 
                                 "caption": "ADXL3xx", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/06.Sensors/Knock"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/06.Sensors/Knock"
                                 }, 
                                 "caption": "Knock", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/06.Sensors/Memsic2125"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/06.Sensors/Memsic2125"
                                 }, 
                                 "caption": "Memsic2125", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/06.Sensors/Ping"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/06.Sensors/Ping"
                                 }, 
                                 "caption": "Ping", 
                                 "command": "open_sketch"
@@ -334,14 +334,14 @@
                         "children": [
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/07.Display/barGraph"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/07.Display/barGraph"
                                 }, 
                                 "caption": "barGraph", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/07.Display/RowColumnScanning"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/07.Display/RowColumnScanning"
                                 }, 
                                 "caption": "RowColumnScanning", 
                                 "command": "open_sketch"
@@ -353,105 +353,105 @@
                         "children": [
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/08.Strings/CharacterAnalysis"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/08.Strings/CharacterAnalysis"
                                 }, 
                                 "caption": "CharacterAnalysis", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/08.Strings/StringAdditionOperator"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/08.Strings/StringAdditionOperator"
                                 }, 
                                 "caption": "StringAdditionOperator", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/08.Strings/StringAppendOperator"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/08.Strings/StringAppendOperator"
                                 }, 
                                 "caption": "StringAppendOperator", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/08.Strings/StringCaseChanges"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/08.Strings/StringCaseChanges"
                                 }, 
                                 "caption": "StringCaseChanges", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/08.Strings/StringCharacters"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/08.Strings/StringCharacters"
                                 }, 
                                 "caption": "StringCharacters", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/08.Strings/StringComparisonOperators"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/08.Strings/StringComparisonOperators"
                                 }, 
                                 "caption": "StringComparisonOperators", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/08.Strings/StringConstructors"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/08.Strings/StringConstructors"
                                 }, 
                                 "caption": "StringConstructors", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/08.Strings/StringIndexOf"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/08.Strings/StringIndexOf"
                                 }, 
                                 "caption": "StringIndexOf", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/08.Strings/StringLength"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/08.Strings/StringLength"
                                 }, 
                                 "caption": "StringLength", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/08.Strings/StringLengthTrim"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/08.Strings/StringLengthTrim"
                                 }, 
                                 "caption": "StringLengthTrim", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/08.Strings/StringReplace"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/08.Strings/StringReplace"
                                 }, 
                                 "caption": "StringReplace", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/08.Strings/StringStartsWithEndsWith"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/08.Strings/StringStartsWithEndsWith"
                                 }, 
                                 "caption": "StringStartsWithEndsWith", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/08.Strings/StringSubstring"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/08.Strings/StringSubstring"
                                 }, 
                                 "caption": "StringSubstring", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/08.Strings/StringToInt"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/08.Strings/StringToInt"
                                 }, 
                                 "caption": "StringToInt", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/08.Strings/StringToIntRGB"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/08.Strings/StringToIntRGB"
                                 }, 
                                 "caption": "StringToIntRGB", 
                                 "command": "open_sketch"
@@ -466,28 +466,28 @@
                                 "children": [
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/examples/09.USB/Keyboard/KeyboardLogout"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/09.USB/Keyboard/KeyboardLogout"
                                         }, 
                                         "caption": "KeyboardLogout", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/examples/09.USB/Keyboard/KeyboardMessage"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/09.USB/Keyboard/KeyboardMessage"
                                         }, 
                                         "caption": "KeyboardMessage", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/examples/09.USB/Keyboard/KeyboardReprogram"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/09.USB/Keyboard/KeyboardReprogram"
                                         }, 
                                         "caption": "KeyboardReprogram", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/examples/09.USB/Keyboard/KeyboardSerial"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/09.USB/Keyboard/KeyboardSerial"
                                         }, 
                                         "caption": "KeyboardSerial", 
                                         "command": "open_sketch"
@@ -496,7 +496,7 @@
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/09.USB/KeyboardAndMouseControl"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/09.USB/KeyboardAndMouseControl"
                                 }, 
                                 "caption": "KeyboardAndMouseControl", 
                                 "command": "open_sketch"
@@ -506,14 +506,14 @@
                                 "children": [
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/examples/09.USB/Mouse/ButtonMouseControl"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/09.USB/Mouse/ButtonMouseControl"
                                         }, 
                                         "caption": "ButtonMouseControl", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/examples/09.USB/Mouse/JoystickMouseControl"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/09.USB/Mouse/JoystickMouseControl"
                                         }, 
                                         "caption": "JoystickMouseControl", 
                                         "command": "open_sketch"
@@ -527,98 +527,98 @@
                         "children": [
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/10.StarterKit/p02_SpaceshipInterface"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/10.StarterKit/p02_SpaceshipInterface"
                                 }, 
                                 "caption": "p02_SpaceshipInterface", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/10.StarterKit/p03_LoveOMeter"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/10.StarterKit/p03_LoveOMeter"
                                 }, 
                                 "caption": "p03_LoveOMeter", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/10.StarterKit/p04_ColorMixingLamp"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/10.StarterKit/p04_ColorMixingLamp"
                                 }, 
                                 "caption": "p04_ColorMixingLamp", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/10.StarterKit/p05_ServoMoodIndicator"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/10.StarterKit/p05_ServoMoodIndicator"
                                 }, 
                                 "caption": "p05_ServoMoodIndicator", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/10.StarterKit/p06_LightTheremin"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/10.StarterKit/p06_LightTheremin"
                                 }, 
                                 "caption": "p06_LightTheremin", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/10.StarterKit/p07_Keyboard"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/10.StarterKit/p07_Keyboard"
                                 }, 
                                 "caption": "p07_Keyboard", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/10.StarterKit/p08_DigitalHourglass"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/10.StarterKit/p08_DigitalHourglass"
                                 }, 
                                 "caption": "p08_DigitalHourglass", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/10.StarterKit/p09_MotorizedPinwheel"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/10.StarterKit/p09_MotorizedPinwheel"
                                 }, 
                                 "caption": "p09_MotorizedPinwheel", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/10.StarterKit/p10_Zoetrope"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/10.StarterKit/p10_Zoetrope"
                                 }, 
                                 "caption": "p10_Zoetrope", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/10.StarterKit/p11_CrystalBall"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/10.StarterKit/p11_CrystalBall"
                                 }, 
                                 "caption": "p11_CrystalBall", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/10.StarterKit/p12_KnockLock"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/10.StarterKit/p12_KnockLock"
                                 }, 
                                 "caption": "p12_KnockLock", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/10.StarterKit/p13_TouchSensorLamp"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/10.StarterKit/p13_TouchSensorLamp"
                                 }, 
                                 "caption": "p13_TouchSensorLamp", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/10.StarterKit/p14_TweakTheArduinoLogo"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/10.StarterKit/p14_TweakTheArduinoLogo"
                                 }, 
                                 "caption": "p14_TweakTheArduinoLogo", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/examples/10.StarterKit/p15_HackingButtons"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/10.StarterKit/p15_HackingButtons"
                                 }, 
                                 "caption": "p15_HackingButtons", 
                                 "command": "open_sketch"
@@ -627,7 +627,7 @@
                     }, 
                     {
                         "args": {
-                            "sketch_path": "/Applications/arduino.app/Contents/Java/examples/ArduinoISP"
+                            "sketch_path": "/Applications/Arduino.app/Contents/Java/examples/ArduinoISP"
                         }, 
                         "caption": "ArduinoISP", 
                         "command": "open_sketch"
@@ -636,86 +636,74 @@
                         "caption": "-"
                     }, 
                     {
-                        "caption": "Audio (sam)", 
-                        "children": [
-                            {
-                                "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Audio/examples/SimpleAudioPlayer"
-                                }, 
-                                "caption": "SimpleAudioPlayer", 
-                                "command": "open_sketch"
-                            }
-                        ]
-                    }, 
-                    {
                         "caption": "Bridge (*)", 
                         "children": [
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/Bridge"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/Bridge"
                                 }, 
                                 "caption": "Bridge", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/ConsoleAsciiTable"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/ConsoleAsciiTable"
                                 }, 
                                 "caption": "ConsoleAsciiTable", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/ConsolePixel"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/ConsolePixel"
                                 }, 
                                 "caption": "ConsolePixel", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/ConsoleRead"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/ConsoleRead"
                                 }, 
                                 "caption": "ConsoleRead", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/Datalogger"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/Datalogger"
                                 }, 
                                 "caption": "Datalogger", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/FileWriteScript"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/FileWriteScript"
                                 }, 
                                 "caption": "FileWriteScript", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/HttpClient"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/HttpClient"
                                 }, 
                                 "caption": "HttpClient", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/MailboxReadMessage"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/MailboxReadMessage"
                                 }, 
                                 "caption": "MailboxReadMessage", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/Process"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/Process"
                                 }, 
                                 "caption": "Process", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/ShellCommands"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/ShellCommands"
                                 }, 
                                 "caption": "ShellCommands", 
                                 "command": "open_sketch"
@@ -725,28 +713,28 @@
                                 "children": [
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/SpacebrewYun/inputOutput"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/SpacebrewYun/inputOutput"
                                         }, 
                                         "caption": "inputOutput", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/SpacebrewYun/spacebrewBoolean"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/SpacebrewYun/spacebrewBoolean"
                                         }, 
                                         "caption": "spacebrewBoolean", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/SpacebrewYun/spacebrewRange"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/SpacebrewYun/spacebrewRange"
                                         }, 
                                         "caption": "spacebrewRange", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/SpacebrewYun/spacebrewString"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/SpacebrewYun/spacebrewString"
                                         }, 
                                         "caption": "spacebrewString", 
                                         "command": "open_sketch"
@@ -758,77 +746,63 @@
                                 "children": [
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/Temboo/ControlBySMS"
-                                        }, 
-                                        "caption": "ControlBySMS", 
-                                        "command": "open_sketch"
-                                    }, 
-                                    {
-                                        "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/Temboo/GetYahooWeatherReport"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/Temboo/GetYahooWeatherReport"
                                         }, 
                                         "caption": "GetYahooWeatherReport", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/Temboo/ReadATweet"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/Temboo/ReadATweet"
                                         }, 
                                         "caption": "ReadATweet", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/Temboo/SendAnEmail"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/Temboo/SendAnEmail"
                                         }, 
                                         "caption": "SendAnEmail", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/Temboo/SendAnSMS"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/Temboo/SendAnSMS"
                                         }, 
                                         "caption": "SendAnSMS", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/Temboo/SendATweet"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/Temboo/SendATweet"
                                         }, 
                                         "caption": "SendATweet", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/Temboo/SendDataToGoogleSpreadsheet"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/Temboo/SendDataToGoogleSpreadsheet"
                                         }, 
                                         "caption": "SendDataToGoogleSpreadsheet", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/Temboo/SendDataToMySQL"
-                                        }, 
-                                        "caption": "SendDataToMySQL", 
-                                        "command": "open_sketch"
-                                    }, 
-                                    {
-                                        "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/Temboo/ToxicFacilitiesSearch"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/Temboo/ToxicFacilitiesSearch"
                                         }, 
                                         "caption": "ToxicFacilitiesSearch", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/Temboo/UpdateFacebookStatus"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/Temboo/UpdateFacebookStatus"
                                         }, 
                                         "caption": "UpdateFacebookStatus", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/Temboo/UploadToDropbox"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/Temboo/UploadToDropbox"
                                         }, 
                                         "caption": "UploadToDropbox", 
                                         "command": "open_sketch"
@@ -837,28 +811,28 @@
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/TemperatureWebPanel"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/TemperatureWebPanel"
                                 }, 
                                 "caption": "TemperatureWebPanel", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/TimeCheck"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/TimeCheck"
                                 }, 
                                 "caption": "TimeCheck", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/WiFiStatus"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/WiFiStatus"
                                 }, 
                                 "caption": "WiFiStatus", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Bridge/examples/YunSerialTerminal"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Bridge/examples/YunSerialTerminal"
                                 }, 
                                 "caption": "YunSerialTerminal", 
                                 "command": "open_sketch"
@@ -873,63 +847,63 @@
                                 "children": [
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Esplora/examples/Beginners/EsploraAccelerometer"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Esplora/examples/Beginners/EsploraAccelerometer"
                                         }, 
                                         "caption": "EsploraAccelerometer", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Esplora/examples/Beginners/EsploraBlink"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Esplora/examples/Beginners/EsploraBlink"
                                         }, 
                                         "caption": "EsploraBlink", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Esplora/examples/Beginners/EsploraJoystickMouse"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Esplora/examples/Beginners/EsploraJoystickMouse"
                                         }, 
                                         "caption": "EsploraJoystickMouse", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Esplora/examples/Beginners/EsploraLedShow"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Esplora/examples/Beginners/EsploraLedShow"
                                         }, 
                                         "caption": "EsploraLedShow", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Esplora/examples/Beginners/EsploraLedShow2"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Esplora/examples/Beginners/EsploraLedShow2"
                                         }, 
                                         "caption": "EsploraLedShow2", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Esplora/examples/Beginners/EsploraLightCalibrator"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Esplora/examples/Beginners/EsploraLightCalibrator"
                                         }, 
                                         "caption": "EsploraLightCalibrator", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Esplora/examples/Beginners/EsploraMusic"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Esplora/examples/Beginners/EsploraMusic"
                                         }, 
                                         "caption": "EsploraMusic", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Esplora/examples/Beginners/EsploraSoundSensor"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Esplora/examples/Beginners/EsploraSoundSensor"
                                         }, 
                                         "caption": "EsploraSoundSensor", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Esplora/examples/Beginners/EsploraTemperatureSensor"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Esplora/examples/Beginners/EsploraTemperatureSensor"
                                         }, 
                                         "caption": "EsploraTemperatureSensor", 
                                         "command": "open_sketch"
@@ -941,28 +915,28 @@
                                 "children": [
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Esplora/examples/Experts/EsploraKart"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Esplora/examples/Experts/EsploraKart"
                                         }, 
                                         "caption": "EsploraKart", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Esplora/examples/Experts/EsploraPong"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Esplora/examples/Experts/EsploraPong"
                                         }, 
                                         "caption": "EsploraPong", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Esplora/examples/Experts/EsploraRemote"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Esplora/examples/Experts/EsploraRemote"
                                         }, 
                                         "caption": "EsploraRemote", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Esplora/examples/Experts/EsploraTable"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Esplora/examples/Experts/EsploraTable"
                                         }, 
                                         "caption": "EsploraTable", 
                                         "command": "open_sketch"
@@ -976,77 +950,77 @@
                         "children": [
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Ethernet/examples/AdvancedChatServer"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Ethernet/examples/AdvancedChatServer"
                                 }, 
                                 "caption": "AdvancedChatServer", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Ethernet/examples/BarometricPressureWebServer"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Ethernet/examples/BarometricPressureWebServer"
                                 }, 
                                 "caption": "BarometricPressureWebServer", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Ethernet/examples/ChatServer"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Ethernet/examples/ChatServer"
                                 }, 
                                 "caption": "ChatServer", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Ethernet/examples/DhcpAddressPrinter"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Ethernet/examples/DhcpAddressPrinter"
                                 }, 
                                 "caption": "DhcpAddressPrinter", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Ethernet/examples/DhcpChatServer"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Ethernet/examples/DhcpChatServer"
                                 }, 
                                 "caption": "DhcpChatServer", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Ethernet/examples/TelnetClient"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Ethernet/examples/TelnetClient"
                                 }, 
                                 "caption": "TelnetClient", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Ethernet/examples/UdpNtpClient"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Ethernet/examples/UdpNtpClient"
                                 }, 
                                 "caption": "UdpNtpClient", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Ethernet/examples/UDPSendReceiveString"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Ethernet/examples/UDPSendReceiveString"
                                 }, 
                                 "caption": "UDPSendReceiveString", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Ethernet/examples/WebClient"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Ethernet/examples/WebClient"
                                 }, 
                                 "caption": "WebClient", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Ethernet/examples/WebClientRepeating"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Ethernet/examples/WebClientRepeating"
                                 }, 
                                 "caption": "WebClientRepeating", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Ethernet/examples/WebServer"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Ethernet/examples/WebServer"
                                 }, 
                                 "caption": "WebServer", 
                                 "command": "open_sketch"
@@ -1058,56 +1032,56 @@
                         "children": [
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Firmata/examples/AllInputsFirmata"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Firmata/examples/AllInputsFirmata"
                                 }, 
                                 "caption": "AllInputsFirmata", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Firmata/examples/AnalogFirmata"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Firmata/examples/AnalogFirmata"
                                 }, 
                                 "caption": "AnalogFirmata", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Firmata/examples/EchoString"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Firmata/examples/EchoString"
                                 }, 
                                 "caption": "EchoString", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Firmata/examples/OldStandardFirmata"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Firmata/examples/OldStandardFirmata"
                                 }, 
                                 "caption": "OldStandardFirmata", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Firmata/examples/ServoFirmata"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Firmata/examples/ServoFirmata"
                                 }, 
                                 "caption": "ServoFirmata", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Firmata/examples/SimpleAnalogFirmata"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Firmata/examples/SimpleAnalogFirmata"
                                 }, 
                                 "caption": "SimpleAnalogFirmata", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Firmata/examples/SimpleDigitalFirmata"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Firmata/examples/SimpleDigitalFirmata"
                                 }, 
                                 "caption": "SimpleDigitalFirmata", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Firmata/examples/StandardFirmata"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Firmata/examples/StandardFirmata"
                                 }, 
                                 "caption": "StandardFirmata", 
                                 "command": "open_sketch"
@@ -1119,42 +1093,42 @@
                         "children": [
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/GSM/examples/GsmWebClient"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/GSM/examples/GsmWebClient"
                                 }, 
                                 "caption": "GsmWebClient", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/GSM/examples/GsmWebServer"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/GSM/examples/GsmWebServer"
                                 }, 
                                 "caption": "GsmWebServer", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/GSM/examples/MakeVoiceCall"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/GSM/examples/MakeVoiceCall"
                                 }, 
                                 "caption": "MakeVoiceCall", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/GSM/examples/ReceiveSMS"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/GSM/examples/ReceiveSMS"
                                 }, 
                                 "caption": "ReceiveSMS", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/GSM/examples/ReceiveVoiceCall"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/GSM/examples/ReceiveVoiceCall"
                                 }, 
                                 "caption": "ReceiveVoiceCall", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/GSM/examples/SendSMS"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/GSM/examples/SendSMS"
                                 }, 
                                 "caption": "SendSMS", 
                                 "command": "open_sketch"
@@ -1164,42 +1138,42 @@
                                 "children": [
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/GSM/examples/Tools/BandManagement"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/GSM/examples/Tools/BandManagement"
                                         }, 
                                         "caption": "BandManagement", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/GSM/examples/Tools/GsmScanNetworks"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/GSM/examples/Tools/GsmScanNetworks"
                                         }, 
                                         "caption": "GsmScanNetworks", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/GSM/examples/Tools/PinManagement"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/GSM/examples/Tools/PinManagement"
                                         }, 
                                         "caption": "PinManagement", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/GSM/examples/Tools/TestGPRS"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/GSM/examples/Tools/TestGPRS"
                                         }, 
                                         "caption": "TestGPRS", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/GSM/examples/Tools/TestModem"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/GSM/examples/Tools/TestModem"
                                         }, 
                                         "caption": "TestModem", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/GSM/examples/Tools/TestWebServer"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/GSM/examples/Tools/TestWebServer"
                                         }, 
                                         "caption": "TestWebServer", 
                                         "command": "open_sketch"
@@ -1213,70 +1187,70 @@
                         "children": [
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/LiquidCrystal/examples/Autoscroll"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/LiquidCrystal/examples/Autoscroll"
                                 }, 
                                 "caption": "Autoscroll", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/LiquidCrystal/examples/Blink"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/LiquidCrystal/examples/Blink"
                                 }, 
                                 "caption": "Blink", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/LiquidCrystal/examples/Cursor"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/LiquidCrystal/examples/Cursor"
                                 }, 
                                 "caption": "Cursor", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/LiquidCrystal/examples/CustomCharacter"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/LiquidCrystal/examples/CustomCharacter"
                                 }, 
                                 "caption": "CustomCharacter", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/LiquidCrystal/examples/Display"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/LiquidCrystal/examples/Display"
                                 }, 
                                 "caption": "Display", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/LiquidCrystal/examples/HelloWorld"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/LiquidCrystal/examples/HelloWorld"
                                 }, 
                                 "caption": "HelloWorld", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/LiquidCrystal/examples/Scroll"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/LiquidCrystal/examples/Scroll"
                                 }, 
                                 "caption": "Scroll", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/LiquidCrystal/examples/SerialDisplay"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/LiquidCrystal/examples/SerialDisplay"
                                 }, 
                                 "caption": "SerialDisplay", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/LiquidCrystal/examples/setCursor"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/LiquidCrystal/examples/setCursor"
                                 }, 
                                 "caption": "setCursor", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/LiquidCrystal/examples/TextDirection"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/LiquidCrystal/examples/TextDirection"
                                 }, 
                                 "caption": "TextDirection", 
                                 "command": "open_sketch"
@@ -1291,77 +1265,77 @@
                                 "children": [
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/explore/R01_Logo"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/explore/R01_Logo"
                                         }, 
                                         "caption": "R01_Logo", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/explore/R02_Line_Follow"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/explore/R02_Line_Follow"
                                         }, 
                                         "caption": "R02_Line_Follow", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/explore/R03_Disco_Bot"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/explore/R03_Disco_Bot"
                                         }, 
                                         "caption": "R03_Disco_Bot", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/explore/R04_Compass"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/explore/R04_Compass"
                                         }, 
                                         "caption": "R04_Compass", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/explore/R05_Inputs"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/explore/R05_Inputs"
                                         }, 
                                         "caption": "R05_Inputs", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/explore/R06_Wheel_Calibration"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/explore/R06_Wheel_Calibration"
                                         }, 
                                         "caption": "R06_Wheel_Calibration", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/explore/R07_Runaway_Robot"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/explore/R07_Runaway_Robot"
                                         }, 
                                         "caption": "R07_Runaway_Robot", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/explore/R08_Remote_Control"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/explore/R08_Remote_Control"
                                         }, 
                                         "caption": "R08_Remote_Control", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/explore/R09_Picture_Browser"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/explore/R09_Picture_Browser"
                                         }, 
                                         "caption": "R09_Picture_Browser", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/explore/R10_Rescue"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/explore/R10_Rescue"
                                         }, 
                                         "caption": "R10_Rescue", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/explore/R11_Hello_User"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/explore/R11_Hello_User"
                                         }, 
                                         "caption": "R11_Hello_User", 
                                         "command": "open_sketch"
@@ -1373,98 +1347,98 @@
                                 "children": [
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/AllIOPorts"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/AllIOPorts"
                                         }, 
                                         "caption": "AllIOPorts", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/Beep"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/Beep"
                                         }, 
                                         "caption": "Beep", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/CleanEEPROM"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/CleanEEPROM"
                                         }, 
                                         "caption": "CleanEEPROM", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/Compass"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/Compass"
                                         }, 
                                         "caption": "Compass", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/IRArray"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/IRArray"
                                         }, 
                                         "caption": "IRArray", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/keyboardTest"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/keyboardTest"
                                         }, 
                                         "caption": "keyboardTest", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/LCDDebugPrint"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/LCDDebugPrint"
                                         }, 
                                         "caption": "LCDDebugPrint", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/LCDPrint"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/LCDPrint"
                                         }, 
                                         "caption": "LCDPrint", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/LCDWriteText"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/LCDWriteText"
                                         }, 
                                         "caption": "LCDWriteText", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/LineFollowWithPause"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/LineFollowWithPause"
                                         }, 
                                         "caption": "LineFollowWithPause", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/Melody"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/Melody"
                                         }, 
                                         "caption": "Melody", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/MotorTest"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/MotorTest"
                                         }, 
                                         "caption": "MotorTest", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/SpeedByPotentiometer"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/SpeedByPotentiometer"
                                         }, 
                                         "caption": "SpeedByPotentiometer", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/TurnTest"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Control/examples/learn/TurnTest"
                                         }, 
                                         "caption": "TurnTest", 
                                         "command": "open_sketch"
@@ -1478,28 +1452,16 @@
                         "children": [
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Motor/examples/Robot_IR_Array_Test"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Motor/examples/Robot_IR_Array_Test"
                                 }, 
                                 "caption": "Robot_IR_Array_Test", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Robot_Motor/examples/Robot_Motor_Core"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Robot_Motor/examples/Robot_Motor_Core"
                                 }, 
                                 "caption": "Robot_Motor_Core", 
-                                "command": "open_sketch"
-                            }
-                        ]
-                    }, 
-                    {
-                        "caption": "Scheduler (sam)", 
-                        "children": [
-                            {
-                                "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Scheduler/examples/MultipleBlinks"
-                                }, 
-                                "caption": "MultipleBlinks", 
                                 "command": "open_sketch"
                             }
                         ]
@@ -1509,42 +1471,42 @@
                         "children": [
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/SD/examples/CardInfo"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/SD/examples/CardInfo"
                                 }, 
                                 "caption": "CardInfo", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/SD/examples/Datalogger"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/SD/examples/Datalogger"
                                 }, 
                                 "caption": "Datalogger", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/SD/examples/DumpFile"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/SD/examples/DumpFile"
                                 }, 
                                 "caption": "DumpFile", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/SD/examples/Files"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/SD/examples/Files"
                                 }, 
                                 "caption": "Files", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/SD/examples/listfiles"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/SD/examples/listfiles"
                                 }, 
                                 "caption": "listfiles", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/SD/examples/ReadWrite"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/SD/examples/ReadWrite"
                                 }, 
                                 "caption": "ReadWrite", 
                                 "command": "open_sketch"
@@ -1556,14 +1518,14 @@
                         "children": [
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Servo/examples/Knob"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Servo/examples/Knob"
                                 }, 
                                 "caption": "Knob", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Servo/examples/Sweep"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Servo/examples/Sweep"
                                 }, 
                                 "caption": "Sweep", 
                                 "command": "open_sketch"
@@ -1575,28 +1537,28 @@
                         "children": [
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Stepper/examples/MotorKnob"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Stepper/examples/MotorKnob"
                                 }, 
                                 "caption": "MotorKnob", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Stepper/examples/stepper_oneRevolution"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Stepper/examples/stepper_oneRevolution"
                                 }, 
                                 "caption": "stepper_oneRevolution", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Stepper/examples/stepper_oneStepAtATime"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Stepper/examples/stepper_oneStepAtATime"
                                 }, 
                                 "caption": "stepper_oneStepAtATime", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/Stepper/examples/stepper_speedControl"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/Stepper/examples/stepper_speedControl"
                                 }, 
                                 "caption": "stepper_speedControl", 
                                 "command": "open_sketch"
@@ -1611,42 +1573,42 @@
                                 "children": [
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/TFT/examples/Arduino/TFTBitmapLogo"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/TFT/examples/Arduino/TFTBitmapLogo"
                                         }, 
                                         "caption": "TFTBitmapLogo", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/TFT/examples/Arduino/TFTColorPicker"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/TFT/examples/Arduino/TFTColorPicker"
                                         }, 
                                         "caption": "TFTColorPicker", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/TFT/examples/Arduino/TFTDisplayText"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/TFT/examples/Arduino/TFTDisplayText"
                                         }, 
                                         "caption": "TFTDisplayText", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/TFT/examples/Arduino/TFTEtchASketch"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/TFT/examples/Arduino/TFTEtchASketch"
                                         }, 
                                         "caption": "TFTEtchASketch", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/TFT/examples/Arduino/TFTGraph"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/TFT/examples/Arduino/TFTGraph"
                                         }, 
                                         "caption": "TFTGraph", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/TFT/examples/Arduino/TFTPong"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/TFT/examples/Arduino/TFTPong"
                                         }, 
                                         "caption": "TFTPong", 
                                         "command": "open_sketch"
@@ -1658,49 +1620,49 @@
                                 "children": [
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/TFT/examples/Esplora/EsploraTFTBitmapLogo"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/TFT/examples/Esplora/EsploraTFTBitmapLogo"
                                         }, 
                                         "caption": "EsploraTFTBitmapLogo", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/TFT/examples/Esplora/EsploraTFTColorPicker"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/TFT/examples/Esplora/EsploraTFTColorPicker"
                                         }, 
                                         "caption": "EsploraTFTColorPicker", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/TFT/examples/Esplora/EsploraTFTEtchASketch"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/TFT/examples/Esplora/EsploraTFTEtchASketch"
                                         }, 
                                         "caption": "EsploraTFTEtchASketch", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/TFT/examples/Esplora/EsploraTFTGraph"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/TFT/examples/Esplora/EsploraTFTGraph"
                                         }, 
                                         "caption": "EsploraTFTGraph", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/TFT/examples/Esplora/EsploraTFTHorizon"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/TFT/examples/Esplora/EsploraTFTHorizon"
                                         }, 
                                         "caption": "EsploraTFTHorizon", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/TFT/examples/Esplora/EsploraTFTPong"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/TFT/examples/Esplora/EsploraTFTPong"
                                         }, 
                                         "caption": "EsploraTFTPong", 
                                         "command": "open_sketch"
                                     }, 
                                     {
                                         "args": {
-                                            "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/TFT/examples/Esplora/EsploraTFTTemp"
+                                            "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/TFT/examples/Esplora/EsploraTFTTemp"
                                         }, 
                                         "caption": "EsploraTFTTemp", 
                                         "command": "open_sketch"
@@ -1710,107 +1672,81 @@
                         ]
                     }, 
                     {
-                        "caption": "USBHost (sam)", 
-                        "children": [
-                            {
-                                "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/USBHost/examples/ADKTerminalTest"
-                                }, 
-                                "caption": "ADKTerminalTest", 
-                                "command": "open_sketch"
-                            }, 
-                            {
-                                "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/USBHost/examples/KeyboardController"
-                                }, 
-                                "caption": "KeyboardController", 
-                                "command": "open_sketch"
-                            }, 
-                            {
-                                "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/USBHost/examples/MouseController"
-                                }, 
-                                "caption": "MouseController", 
-                                "command": "open_sketch"
-                            }
-                        ]
-                    }, 
-                    {
                         "caption": "WiFi (*)", 
                         "children": [
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/WiFi/examples/ConnectNoEncryption"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/WiFi/examples/ConnectNoEncryption"
                                 }, 
                                 "caption": "ConnectNoEncryption", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/WiFi/examples/ConnectWithWEP"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/WiFi/examples/ConnectWithWEP"
                                 }, 
                                 "caption": "ConnectWithWEP", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/WiFi/examples/ConnectWithWPA"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/WiFi/examples/ConnectWithWPA"
                                 }, 
                                 "caption": "ConnectWithWPA", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/WiFi/examples/ScanNetworks"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/WiFi/examples/ScanNetworks"
                                 }, 
                                 "caption": "ScanNetworks", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/WiFi/examples/SimpleWebServerWiFi"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/WiFi/examples/SimpleWebServerWiFi"
                                 }, 
                                 "caption": "SimpleWebServerWiFi", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/WiFi/examples/WiFiChatServer"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/WiFi/examples/WiFiChatServer"
                                 }, 
                                 "caption": "WiFiChatServer", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/WiFi/examples/WiFiUdpNtpClient"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/WiFi/examples/WiFiUdpNtpClient"
                                 }, 
                                 "caption": "WiFiUdpNtpClient", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/WiFi/examples/WiFiUdpSendReceiveString"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/WiFi/examples/WiFiUdpSendReceiveString"
                                 }, 
                                 "caption": "WiFiUdpSendReceiveString", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/WiFi/examples/WiFiWebClient"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/WiFi/examples/WiFiWebClient"
                                 }, 
                                 "caption": "WiFiWebClient", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/WiFi/examples/WiFiWebClientRepeating"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/WiFi/examples/WiFiWebClientRepeating"
                                 }, 
                                 "caption": "WiFiWebClientRepeating", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/libraries/WiFi/examples/WiFiWebServer"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/libraries/WiFi/examples/WiFiWebServer"
                                 }, 
                                 "caption": "WiFiWebServer", 
                                 "command": "open_sketch"
@@ -1829,21 +1765,56 @@
                         "children": [
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/avr/libraries/EEPROM/examples/eeprom_clear"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/EEPROM/examples/eeprom_clear"
                                 }, 
                                 "caption": "eeprom_clear", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/avr/libraries/EEPROM/examples/eeprom_read"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/EEPROM/examples/eeprom_crc"
+                                }, 
+                                "caption": "eeprom_crc", 
+                                "command": "open_sketch"
+                            }, 
+                            {
+                                "args": {
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/EEPROM/examples/eeprom_get"
+                                }, 
+                                "caption": "eeprom_get", 
+                                "command": "open_sketch"
+                            }, 
+                            {
+                                "args": {
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/EEPROM/examples/eeprom_iteration"
+                                }, 
+                                "caption": "eeprom_iteration", 
+                                "command": "open_sketch"
+                            }, 
+                            {
+                                "args": {
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/EEPROM/examples/eeprom_put"
+                                }, 
+                                "caption": "eeprom_put", 
+                                "command": "open_sketch"
+                            }, 
+                            {
+                                "args": {
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/EEPROM/examples/eeprom_read"
                                 }, 
                                 "caption": "eeprom_read", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/avr/libraries/EEPROM/examples/eeprom_write"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/EEPROM/examples/eeprom_update"
+                                }, 
+                                "caption": "eeprom_update", 
+                                "command": "open_sketch"
+                            }, 
+                            {
+                                "args": {
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/EEPROM/examples/eeprom_write"
                                 }, 
                                 "caption": "eeprom_write", 
                                 "command": "open_sketch"
@@ -1855,14 +1826,14 @@
                         "children": [
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/avr/libraries/SoftwareSerial/examples/SoftwareSerialExample"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/SoftwareSerial/examples/SoftwareSerialExample"
                                 }, 
                                 "caption": "SoftwareSerialExample", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/avr/libraries/SoftwareSerial/examples/TwoPortReceive"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/SoftwareSerial/examples/TwoPortReceive"
                                 }, 
                                 "caption": "TwoPortReceive", 
                                 "command": "open_sketch"
@@ -1874,14 +1845,14 @@
                         "children": [
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/avr/libraries/SPI/examples/BarometricPressureSensor"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/SPI/examples/BarometricPressureSensor"
                                 }, 
                                 "caption": "BarometricPressureSensor", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/avr/libraries/SPI/examples/DigitalPotControl"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/SPI/examples/DigitalPotControl"
                                 }, 
                                 "caption": "DigitalPotControl", 
                                 "command": "open_sketch"
@@ -1893,115 +1864,42 @@
                         "children": [
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/avr/libraries/Wire/examples/digital_potentiometer"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/Wire/examples/digital_potentiometer"
                                 }, 
                                 "caption": "digital_potentiometer", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/avr/libraries/Wire/examples/master_reader"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/Wire/examples/master_reader"
                                 }, 
                                 "caption": "master_reader", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/avr/libraries/Wire/examples/master_writer"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/Wire/examples/master_writer"
                                 }, 
                                 "caption": "master_writer", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/avr/libraries/Wire/examples/SFRRanger_reader"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/Wire/examples/SFRRanger_reader"
                                 }, 
                                 "caption": "SFRRanger_reader", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/avr/libraries/Wire/examples/slave_receiver"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/Wire/examples/slave_receiver"
                                 }, 
                                 "caption": "slave_receiver", 
                                 "command": "open_sketch"
                             }, 
                             {
                                 "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/avr/libraries/Wire/examples/slave_sender"
-                                }, 
-                                "caption": "slave_sender", 
-                                "command": "open_sketch"
-                            }
-                        ]
-                    }, 
-                    {
-                        "caption": "-"
-                    }, 
-                    {
-                        "caption": "Arduino ARM (32-bits) Boards", 
-                        "command": "none_command"
-                    }, 
-                    {
-                        "caption": "SPI", 
-                        "children": [
-                            {
-                                "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/sam/libraries/SPI/examples/BarometricPressureSensor"
-                                }, 
-                                "caption": "BarometricPressureSensor", 
-                                "command": "open_sketch"
-                            }, 
-                            {
-                                "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/sam/libraries/SPI/examples/DigitalPotControl"
-                                }, 
-                                "caption": "DigitalPotControl", 
-                                "command": "open_sketch"
-                            }
-                        ]
-                    }, 
-                    {
-                        "caption": "Wire", 
-                        "children": [
-                            {
-                                "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/sam/libraries/Wire/examples/digital_potentiometer"
-                                }, 
-                                "caption": "digital_potentiometer", 
-                                "command": "open_sketch"
-                            }, 
-                            {
-                                "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/sam/libraries/Wire/examples/master_reader"
-                                }, 
-                                "caption": "master_reader", 
-                                "command": "open_sketch"
-                            }, 
-                            {
-                                "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/sam/libraries/Wire/examples/master_writer"
-                                }, 
-                                "caption": "master_writer", 
-                                "command": "open_sketch"
-                            }, 
-                            {
-                                "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/sam/libraries/Wire/examples/SFRRanger_reader"
-                                }, 
-                                "caption": "SFRRanger_reader", 
-                                "command": "open_sketch"
-                            }, 
-                            {
-                                "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/sam/libraries/Wire/examples/slave_receiver"
-                                }, 
-                                "caption": "slave_receiver", 
-                                "command": "open_sketch"
-                            }, 
-                            {
-                                "args": {
-                                    "sketch_path": "/Applications/arduino.app/Contents/Java/hardware/arduino/sam/libraries/Wire/examples/slave_sender"
+                                    "sketch_path": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/Wire/examples/slave_sender"
                                 }, 
                                 "caption": "slave_sender", 
                                 "command": "open_sketch"

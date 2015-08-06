@@ -1,8 +1,12 @@
 {
-    "arduino_ide_path": "/Applications/arduino.app", 
+    "arduino_ide_path": "/Applications/Arduino.app", 
+    "full_compilation": true, 
+    "ide.arduino.avr.mega": [
+        "ide.arduino.avr.mega.cpu.atmega2560"
+    ], 
     "lang_id": "en", 
     "serial_port": "/dev/cu.Bluetooth-Incoming-Port", 
     "sketchbook_path": "/Users/andy/Documents/Arduino", 
-    "target_board_id": "ide.arduino.avr.yun", 
+    "target_board_id": "ide.arduino.avr.mega", 
     "target_programmer_id": "ide.arduino.avr.avrisp"
 }

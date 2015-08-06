@@ -163,29 +163,6 @@
                     }, 
                     {
                         "caption": "-"
-                    }, 
-                    {
-                        "caption": "Arduino ARM (32-bits) Boards", 
-                        "command": "none_command"
-                    }, 
-                    {
-                        "args": {
-                            "board_id": "ide.arduino.sam.arduino_due_x_dbg"
-                        }, 
-                        "caption": "Arduino Due (Programming Port)", 
-                        "checkbox": true, 
-                        "command": "select_board"
-                    }, 
-                    {
-                        "args": {
-                            "board_id": "ide.arduino.sam.arduino_due_x"
-                        }, 
-                        "caption": "Arduino Due (Native USB Port)", 
-                        "checkbox": true, 
-                        "command": "select_board"
-                    }, 
-                    {
-                        "caption": "-"
                     }
                 ], 
                 "id": "boards"
