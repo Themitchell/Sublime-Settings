@@ -8,6 +8,7 @@
 		"BufferScroll",
 		"Case Conversion",
 		"CoffeeScript",
+		"Configify",
 		"Cucumber",
 		"DocBlockr",
 		"EditorConfig",
@@ -18,7 +19,9 @@
 		"HTML-CSS-JS Prettify",
 		"JavaScriptNext - ES6 Syntax",
 		"JSHint Gutter",
+		"nginx",
 		"Package Control",
+		"Pretty YAML",
 		"Puppet",
 		"RSpec",
 		"SCSS",
@@ -28,7 +31,8 @@
 		"SublimeGit",
 		"Theme - Phoenix",
 		"ToggleQuotes",
-		"Whitespace Diff Trim"
+		"Whitespace Diff Trim",
+		"YAML Nav"
 	],
 	"repositories":
 	[
