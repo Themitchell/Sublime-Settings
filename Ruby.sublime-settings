@@ -5,7 +5,9 @@
         "podspec",
         "Cheffile",
         ".irbrc",
-        "Podfile"
+        "Podfile",
+        "Procfile",
+        "Vagrantfile"
     ],
     "tab_size": 2,
     "translate_tabs_to_spaces": true
