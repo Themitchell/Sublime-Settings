@@ -17,14 +17,14 @@
 
 			{"caption":"-"},
 
-			// Mou
+			// MacDown
 			{
-				"caption": "Mou",
-				"id": "side-bar-files-open-with-mou",
+				"caption": "MacDown",
+				"id": "side-bar-files-open-with-macdown",
 				"command": "side_bar_files_open_with",
 				"args": {
 					"paths": [],
-					"application": "Mou.app",
+					"application": "MacDown.app",
 					"extensions":".md"
 				}
 			},
