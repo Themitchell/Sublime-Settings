@@ -88,7 +88,8 @@
 		"node_modules",
 		"tmp",
 		"coverage",
-		"dist"
+		"dist",
+		"vendor"
 	],
 	"font_options":
 	[
@@ -101,7 +102,10 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"CoffeeScript",
+		"sublime-clearcase",
+		"Vintage",
+		"Whitespace Diff Trim"
 	],
 	"indent_guide_options":
 	[
