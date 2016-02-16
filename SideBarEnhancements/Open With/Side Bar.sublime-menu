@@ -2,22 +2,6 @@
 	{"id": "side-bar-files-open-with",
 		"children":
 		[
-
-			// Photoshop
-			{
-				"caption": "Photoshop",
-				"id": "side-bar-files-open-with-photoshop",
-				"command": "side_bar_files_open_with",
-				"args": {
-					"paths": [],
-					"application": "Adobe Photoshop CS5.app", // OSX
-					"extensions":"psd|png|jpg|jpeg"  //any file with these extensions
-				}
-			},
-
-			{"caption":"-"},
-
-			// MacDown
 			{
 				"caption": "MacDown",
 				"id": "side-bar-files-open-with-macdown",
@@ -25,10 +9,32 @@
 				"args": {
 					"paths": [],
 					"application": "MacDown.app",
-					"extensions":".md"
+					"extensions":".md|.markdown"
+				}
+			},
+			{"caption":"-"},
+
+			{
+				"caption": "Photoshop",
+				"id": "side-bar-files-open-with-photoshop",
+				"command": "side_bar_files_open_with",
+				"args": {
+					"paths": [],
+					"application": "Adobe Photoshop CS5.app",
+					"extensions":"psd|png|jpg|jpeg"
 				}
 			},
 
+			{
+				"caption": "Preview",
+				"id": "side-bar-files-open-with-preview",
+				"command": "side_bar_files_open_with",
+				"args": {
+					"paths": [],
+					"application": "Preview.app",
+					"extensions":"png|jpg|jpeg|gif"
+				}
+			},
 			{"caption":"-"}
 		]
 	}
