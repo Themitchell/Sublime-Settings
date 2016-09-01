@@ -1,0 +1,10 @@
+{
+  "extensions":
+  [
+    "es6",
+    "jsx",
+    "js"
+  ],
+  "tab_size": 4,
+  "translate_tabs_to_spaces": true
+}

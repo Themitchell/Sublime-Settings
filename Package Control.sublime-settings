@@ -10,6 +10,7 @@
 	[
 		"All Autocomplete",
 		"ApplySyntax",
+		"Babel",
 		"BufferScroll",
 		"Case Conversion",
 		"CoffeeScript",
@@ -23,7 +24,6 @@
 		"GitGutter",
 		"Handlebars",
 		"HTML-CSS-JS Prettify",
-		"JavaScriptNext - ES6 Syntax",
 		"nginx",
 		"Package Control",
 		"Pretty YAML",
