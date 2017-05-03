@@ -1,19 +1,19 @@
 {
 	"extensions":
 	[
-		"Cheffile",
-		"Podfile",
-		"rb",
-		"ru",
-		"thor",
-		".irbrc",
 		"rabl",
-		"rake",
-		"jbuilder",
-		"Vagrantfile",
 		"simplecov",
+		"thor",
+		"rb",
+		"Podfile",
+		"Cheffile",
+		"jbuilder",
 		"Procfile",
-		"podspec"
+		"Vagrantfile",
+		"rake",
+		".irbrc",
+		"podspec",
+		"ru"
 	],
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true
