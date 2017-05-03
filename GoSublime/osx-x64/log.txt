@@ -1,0 +1,58 @@
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.7.3/libexec/pkg/darwin_amd64:/Users/andy/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.7.3/libexec", GOPATH:"/Users/andy/go", InstallSuffix:""}
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/service"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode pkg: "github.com/huandu/facebook"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode pkg: "github.com/huandu/facebook"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/service"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.7.3/libexec/pkg/darwin_amd64:/Users/andy/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.7.3/libexec", GOPATH:"/Users/andy/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode pkg: "."
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/dao"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/dao"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/dao"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/service"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.7.3/libexec/pkg/darwin_amd64:/Users/andy/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.7.3/libexec", GOPATH:"/Users/andy/go", InstallSuffix:""}
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/dao"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.7.3/libexec/pkg/darwin_amd64:/Users/andy/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.7.3/libexec", GOPATH:"/Users/andy/go", InstallSuffix:""}
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/service"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/campaigns"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/campaigns"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/campaigns"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.7.3/libexec/pkg/darwin_amd64:/Users/andy/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.7.3/libexec", GOPATH:"/Users/andy/go", InstallSuffix:""}
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.7.3/libexec/pkg/darwin_amd64:/Users/andy/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.7.3/libexec", GOPATH:"/Users/andy/go", InstallSuffix:""}
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.7.3/libexec/pkg/darwin_amd64:/Users/andy/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.7.3/libexec", GOPATH:"/Users/andy/go", InstallSuffix:""}
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.7.3/libexec/pkg/darwin_amd64:/Users/andy/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.7.3/libexec", GOPATH:"/Users/andy/go", InstallSuffix:""}
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.7.3/libexec/pkg/darwin_amd64:/Users/andy/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.7.3/libexec", GOPATH:"/Users/andy/go", InstallSuffix:""}
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/dao"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/dao"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/dao"
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.7.3/libexec/pkg/darwin_amd64:/Users/andy/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.7.3/libexec", GOPATH:"/Users/andy/go", InstallSuffix:""}
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service"
+Gocode pkg: "."
+Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.7.3/libexec/pkg/darwin_amd64:/Users/andy/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.7.3/libexec", GOPATH:"/Users/andy/go", InstallSuffix:""}
+Gocode pkg: "."
