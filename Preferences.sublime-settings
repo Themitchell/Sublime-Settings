@@ -90,7 +90,8 @@
 		"tmp",
 		"coverage",
 		"dist",
-		"vendor"
+		"vendor",
+		"_site"
 	],
 	"font_options":
 	[
