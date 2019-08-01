@@ -109,7 +109,6 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"CoffeeScript",
 		"Makefile",
 		"sublime-clearcase",
 		"Vintage",

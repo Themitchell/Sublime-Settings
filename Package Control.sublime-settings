@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"CoffeeScript",
 		"sublime-clearcase",
 		"Whitespace Diff Trim"
 	],
@@ -13,7 +12,6 @@
 		"Babel",
 		"BufferScroll",
 		"Case Conversion",
-		"CoffeeScript",
 		"Configify",
 		"Cssnext",
 		"Cucumber",
