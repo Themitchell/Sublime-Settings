@@ -33,7 +33,7 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/SublimeLinter/monokai-phoenix-custom (SL).tmTheme",
+	"color_scheme": "Packages/User/MyThemes/monokai-phoenix-custom.tmTheme",
 	"create_window_at_startup": true,
 	"default_encoding": "UTF-8",
 	"default_line_ending": "system",
