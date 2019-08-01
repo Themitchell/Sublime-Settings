@@ -39,7 +39,7 @@
 		"SublimeERB",
 		"SublimeGit",
 		"SublimeLinter",
-		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-eslint",
 		"SublimeLinter-rubocop",
 		"Syntax Highlighting for PostCSS",
 		"Theme - Phoenix",
