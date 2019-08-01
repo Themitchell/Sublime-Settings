@@ -1,0 +1,10 @@
+// These settings override both User and Default settings for the makefile-plus syntax
+{
+    "extensions":
+    [
+        "Makefile",
+        "mk"
+    ],
+    "tab_size": 2,
+    "translate_tabs_to_spaces": false
+}
