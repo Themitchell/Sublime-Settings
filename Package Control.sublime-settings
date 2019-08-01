@@ -10,7 +10,6 @@
 		"All Autocomplete",
 		"ApplySyntax",
 		"Babel",
-		"BufferScroll",
 		"Case Conversion",
 		"Configify",
 		"Cssnext",
@@ -18,15 +17,11 @@
 		"DocBlockr",
 		"Dockerfile Syntax Highlighting",
 		"EditorConfig",
-		"EJS",
 		"Emmet",
-		"Floobits",
 		"GitGutter",
-		"GoSublime",
 		"Guna",
 		"Handlebars",
 		"HTML-CSS-JS Prettify",
-		"Makefile Improved",
 		"Markdown Extended",
 		"nginx",
 		"Package Control",
@@ -51,10 +46,5 @@
 		"Varnish VCL",
 		"Whitespace Diff Trim",
 		"YAML Nav"
-	],
-	"repositories":
-	[
-		"https://github.com/SublimeText/BufferScroll",
-		"https://github.com/SublimeText/BufferScroll"
 	]
 }
