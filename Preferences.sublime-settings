@@ -135,6 +135,7 @@
 	"open_files_in_new_window": true,
 	"overlay_scroll_bars": "system",
 	"preview_on_click": true,
+	"remember_full_screen": true,
 	"remember_open_files": true,
 	"rubocop_path": "/Users/andy/.rbenv/shims/rubocop",
 	"rulers":
