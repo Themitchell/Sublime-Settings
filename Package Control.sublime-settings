@@ -45,6 +45,7 @@
 		"SublimeLinter",
 		"SublimeLinter-eslint",
 		"SublimeLinter-rubocop",
+		"SublimeLinter-stylelint",
 		"Syntax Highlighting for PostCSS",
 		"Theme - Phoenix",
 		"ToggleQuotes",
