@@ -1,12 +1,12 @@
 {
 	"extensions":
 	[
+		"geojson",
 		".jscsrc",
 		".bowerrc",
 		".eslintrc",
-		".jshintrc",
 		".csslintrc",
-		"geojson"
+		".jshintrc"
 	],
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true
