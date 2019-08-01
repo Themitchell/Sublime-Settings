@@ -1,3 +1,4 @@
+// SublimeLinter Settings - User
 {
 	"debug": false,
 	"delay": 0.25,
@@ -14,6 +15,9 @@
 			"excludes":
 			[
 			]
+		},
+		"rubocop": {
+		    "args": ["--config", "path/to/config.yml"]
 		}
 	},
 	"no_column_highlights_line": false,
@@ -24,6 +28,7 @@
 		],
 		"osx":
 		[
+			"~/.rbenv/shims",
 			"/Users/andy/.nodenv/versions/4.1.1/bin",
 			"/Users/andy/.nodenv/versions/4.2.1/bin",
 			"/Users/andy/.nodenv/versions/5.0.0/bin",
