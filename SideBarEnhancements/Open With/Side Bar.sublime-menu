@@ -9,7 +9,7 @@
 				"args": {
 					"paths": [],
 					"application": "MacDown.app",
-					"extensions":".md|.markdown"
+					"extensions":".md|.markdown|.org"
 				}
 			},
 			{"caption":"-"},
