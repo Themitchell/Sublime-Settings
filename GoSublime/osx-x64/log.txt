@@ -56,3 +56,440 @@ Gocode pkg: "."
 Gocode pkg: "github.com/CrowdSurge/freda-registration-service/handlers"
 Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.7.3/libexec/pkg/darwin_amd64:/Users/andy/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.7.3/libexec", GOPATH:"/Users/andy/go", InstallSuffix:""}
 Gocode pkg: "."
+
+** 2018-01-02 11:49:47.047430 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-tags', '', '-v', '-o', 'gosublime.margo_r17.12.17-1_go?.exe', 'gosublime/cmd/margo']`
+stdout: `
+
+`
+stderr: `
+
+`
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2018-01-02 11:49:47.053754 **:
+MarGo: Missing required environment variables: GOROOT
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2018-01-04 10:07:07.983114 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-tags', '', '-v', '-o', 'gosublime.margo_r17.12.17-1_go?.exe', 'gosublime/cmd/margo']`
+stdout: `
+
+`
+stderr: `
+
+`
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2018-01-04 10:07:07.990134 **:
+MarGo: Missing required environment variables: GOROOT
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2018-01-08 10:06:43.993140 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-tags', '', '-v', '-o', 'gosublime.margo_r17.12.17-1_go?.exe', 'gosublime/cmd/margo']`
+stdout: `
+
+`
+stderr: `
+
+`
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2018-01-08 10:06:43.997110 **:
+MarGo: Missing required environment variables: GOROOT
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2018-01-09 13:33:15.550434 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-tags', '', '-v', '-o', 'gosublime.margo_r17.12.17-1_go?.exe', 'gosublime/cmd/margo']`
+stdout: `
+
+`
+stderr: `
+
+`
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2018-01-09 13:33:15.555185 **:
+MarGo: Missing required environment variables: GOROOT
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2018-01-09 15:46:20.995923 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-tags', '', '-v', '-o', 'gosublime.margo_r17.12.17-1_go?.exe', 'gosublime/cmd/margo']`
+stdout: `
+
+`
+stderr: `
+
+`
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2018-01-09 15:46:21.007010 **:
+MarGo: Missing required environment variables: GOROOT
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2018-01-10 16:04:40.485305 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-tags', '', '-v', '-o', 'gosublime.margo_r17.12.17-1_go?.exe', 'gosublime/cmd/margo']`
+stdout: `
+
+`
+stderr: `
+
+`
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2018-01-10 16:04:40.491945 **:
+MarGo: Missing required environment variables: GOROOT
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2018-01-15 15:56:36.533784 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-tags', '', '-v', '-o', 'gosublime.margo_r17.12.17-1_go?.exe', 'gosublime/cmd/margo']`
+stdout: `
+
+`
+stderr: `
+
+`
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2018-01-15 15:56:36.538646 **:
+MarGo: Missing required environment variables: GOROOT
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2018-01-16 13:57:26.884988 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 13:57:27.462956 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 13:57:27.561174 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 13:57:29.077084 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 13:57:33.769530 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 13:57:34.238761 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 13:57:34.349446 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 13:57:34.526776 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 13:57:34.664326 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 13:57:34.813350 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 13:57:34.893120 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 13:57:35.350533 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 13:57:35.521224 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 13:57:35.729249 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 13:57:35.807500 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 13:57:35.963088 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 13:57:36.103786 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 13:57:37.068665 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:00:16.079989 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:00:17.789000 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:00:17.987742 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:00:19.492760 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:00:25.184302 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:00:27.718736 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:00:27.924964 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:00:28.093516 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:00:31.653868 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:05:51.490485 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:05:58.355655 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:07:23.077818 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:07:46.307908 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:07:51.752431 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:08:06.978115 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:08:29.984767 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:08:35.362516 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:08:41.751115 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:08:57.093913 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:09:09.514346 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:09:25.492097 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:09:27.177640 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:09:27.894011 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:09:29.345536 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:09:32.283617 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:09:33.169436 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:09:34.470124 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:09:34.939103 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:24:43.391513 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:24:47.064787 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:24:48.159162 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:24:48.274511 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:24:48.465108 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:24:48.614242 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:24:48.770233 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:24:48.857848 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:24:49.981441 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:24:50.274269 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:24:50.480496 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:24:50.627188 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:24:50.823442 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:24:51.588391 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:26:14.712472 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:26:15.626684 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:26:16.149860 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:26:19.390511 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:26:40.744166 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:26:42.283232 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:26:45.924417 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:27:50.287917 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:27:51.993054 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:27:52.917159 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-16 14:27:56.194599 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-17 14:59:19.849583 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-17 14:59:23.764678 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-17 14:59:40.814366 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-17 14:59:44.158313 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-17 14:59:45.919026 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-17 14:59:46.930708 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-17 14:59:50.980907 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+
+** 2018-01-17 14:59:52.143952 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/andy/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r17.12.17-1_go?.exe`
+--------------------------------
+Gocode pkg: "github.com/ygt/popocatepetl"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.9.2/libexec/pkg/darwin_amd64:/Users/andy/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.9.2/libexec", GOPATH:"/Users/andy/go", InstallSuffix:""}
